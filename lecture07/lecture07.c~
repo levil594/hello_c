@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+int main ()
+{
+	int a = 5;
+	int b = 0;
+	char c = 'b';
+	while(a>b)
+	{
+		b=b+1;
+		printf("%c : %d\n",c,b);
+		printf("c : %d (decimal)\n",c);
+	}
+
+	return 0;
+}

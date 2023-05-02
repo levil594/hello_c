@@ -1,0 +1,5 @@
+int main()
+{
+	printf("허도영이 지나가는 질은 항상 막힌다.")
+	return 0;
+}
